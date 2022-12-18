@@ -35,7 +35,8 @@ export default function Characters({characters, setCharacters}) {
             })}
 
         </div>
-        <span className='back-gome' onClick={reset}>Volver a la home</span>
+        
+        <span className='btn-search' onClick={reset}>Volver a la home</span>
     </div>
   )
 }

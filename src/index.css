@@ -131,6 +131,9 @@ body {
   .characters {
     padding: 0 20px;
   }
+  span.btn-search{
+    margin: 20px;
+  }
 
   .container-characters {
     display: table-cell;
